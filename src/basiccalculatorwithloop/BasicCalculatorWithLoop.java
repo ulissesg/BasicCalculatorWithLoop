@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package notsobasiccalculator;
+package basiccalculatorwithloop;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author ulisses
  */
-public class NotSoBasicCalculator {
+public class BasicCalculatorWithLoop {
     
     static Scanner input = new Scanner(System.in);
 
